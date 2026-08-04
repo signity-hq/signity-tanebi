@@ -1,4 +1,4 @@
-# signity Tanebi Foundational Doctrine — Terminology and the OST
+# Signity Tanebi Foundational Doctrine — Terminology and the OST
 
 > Why this document exists: a hypothesis-validation conversation **derails permanently the moment definitions drift**. Everyone using "problem", "task", "opportunity", and "hypothesis" to mean the same thing is the foundation this engine stands on. Sources of these definitions: SPRINT Japan's working definitions in production use, plus the Continuous Discovery approach of Teresa Torres and Marty Cagan (see the book "Continuous Discovery Habits" — cited here as inspiration).
 
@@ -69,4 +69,4 @@ Experiment
 
 ## 6. Where these definitions come from
 
-This system of definitions was canonized after an AI actually committed the error of presenting "our own problem" as a "customer opportunity." **The only way to stop an AI from repeating the same error is to place the definitions in an explicit, authoritative document and make every generated artifact conform to it.** Teams adopting signity Tanebi may take this document as-is as their team's terminology canon (if you adapt it to your own vocabulary, we recommend preserving the structure of R1–R6).
+This system of definitions was canonized after an AI actually committed the error of presenting "our own problem" as a "customer opportunity." **The only way to stop an AI from repeating the same error is to place the definitions in an explicit, authoritative document and make every generated artifact conform to it.** Teams adopting Signity Tanebi may take this document as-is as their team's terminology canon (if you adapt it to your own vocabulary, we recommend preserving the structure of R1–R6).

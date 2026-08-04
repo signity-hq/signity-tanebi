@@ -1,6 +1,6 @@
 # Field Validation Conversation Guide — 30 Minutes of Opportunity Validation
 
-The conversation pattern for taking a surviving hypothesis card into the field. **A human does the talking** (signity Tanebi's job ends at handing over this guide). Grounded in Continuous Discovery principles: don't sell, don't open with the solution, ask about behavior.
+The conversation pattern for taking a surviving hypothesis card into the field. **A human does the talking** (Signity Tanebi's job ends at handing over this guide). Grounded in Continuous Discovery principles: don't sell, don't open with the solution, ask about behavior.
 
 ## Premise: what these 30 minutes are for
 

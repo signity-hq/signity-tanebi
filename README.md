@@ -1,8 +1,8 @@
-# signity Tanebi（種火）
+# Signity Tanebi（種火）
 
 **日本語 | [English below](#english)**
 
-**signity Tanebi** は、会社に既にある記録——議事録・決定ログ・顧客メモ・日報・失敗の教訓——を材料に、**検証可能なビジネス仮説**を生成し、反証で鍛え、最小の実地検証まで設計する Claude Code / Claude 用スキルです。
+**Signity Tanebi** は、会社に既にある記録——議事録・決定ログ・顧客メモ・日報・失敗の教訓——を材料に、**検証可能なビジネス仮説**を生成し、反証で鍛え、最小の実地検証まで設計する Claude Code / Claude 用スキルです。
 
 売れるプロダクトは「初期仮説→実地で当てる→学ぶ」の繰り返しから生まれます。人間の起業家がやっているこの過程を、AI と会社の記憶で回せるようにしました。「Tanebi」は種火——会社の記憶という熾火から、検証可能な仮説の火を起こす、という意味です。
 
@@ -33,9 +33,9 @@ git clone https://github.com/Kenji-Natsumoto/signity-tanebi.git /tmp/signity-tan
 ---
 
 <a name="english"></a>
-# signity Tanebi — English
+# Signity Tanebi — English
 
-**signity Tanebi** ("tanebi" means *ember* in Japanese) is a Claude Code / Claude skill that turns your company's existing records — meeting minutes, decision logs, customer notes, lessons from failures — into **testable business hypotheses**, hardens them through adversarial refutation, and designs the smallest possible field validation for each survivor.
+**Signity Tanebi** ("tanebi" means *ember* in Japanese) is a Claude Code / Claude skill that turns your company's existing records — meeting minutes, decision logs, customer notes, lessons from failures — into **testable business hypotheses**, hardens them through adversarial refutation, and designs the smallest possible field validation for each survivor.
 
 ## What makes it different
 
@@ -54,7 +54,7 @@ Then, in any project that holds your company records: *"Form initial hypotheses 
 
 ## Background
 
-signity Tanebi is the public edition of the hypothesis engine used inside SPRINT Japan / signity's own AI-native company operations. The doctrine was canonized after an AI presented a *company problem* as a *customer opportunity* — the exact failure this skill is built to prevent. Methodological foundations: Teresa Torres / Marty Cagan, *Continuous Discovery Habits*.
+Signity Tanebi is the public edition of the hypothesis engine used inside SPRINT Japan / signity's own AI-native company operations. The doctrine was canonized after an AI presented a *company problem* as a *customer opportunity* — the exact failure this skill is built to prevent. Methodological foundations: Teresa Torres / Marty Cagan, *Continuous Discovery Habits*.
 
 ## License
 

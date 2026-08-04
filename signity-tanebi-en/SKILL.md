@@ -1,14 +1,14 @@
 ---
 name: signity-tanebi
-description: signity Tanebi — a hypothesis engine that turns company records (meeting minutes, decision logs, customer notes, daily reports, lessons from failures) into testable business hypotheses, hardens them with adversarial refutation, and designs the minimal field validation. Always use this skill when forming early hypotheses for a new business, service, or feature, or when asked to "form a hypothesis", "think up a new business", "find opportunities in our records", or "prep for customer interviews". Use it for idea generation and brainstorming too, whenever the output should ultimately land as something testable.
+description: Signity Tanebi — a hypothesis engine that turns company records (meeting minutes, decision logs, customer notes, daily reports, lessons from failures) into testable business hypotheses, hardens them with adversarial refutation, and designs the minimal field validation. Always use this skill when forming early hypotheses for a new business, service, or feature, or when asked to "form a hypothesis", "think up a new business", "find opportunities in our records", or "prep for customer interviews". Use it for idea generation and brainstorming too, whenever the output should ultimately land as something testable.
 version: 1.0.0
 ---
 
-# signity Tanebi — Hypothesis Engine
+# Signity Tanebi — Hypothesis Engine
 
-A company's memory is a bed of live coals. Decision records, notes from customer conversations, lessons from failures — buried in them are seeds of businesses that have never been tested. signity Tanebi ("tanebi" is Japanese for an ember — the small seed fire you carry to start a new one) raises from those coals a **tanebi: a testable business hypothesis**, hardens it with refutation, and designs the minimal field validation.
+A company's memory is a bed of live coals. Decision records, notes from customer conversations, lessons from failures — buried in them are seeds of businesses that have never been tested. Signity Tanebi ("tanebi" is Japanese for an ember — the small seed fire you carry to start a new one) raises from those coals a **tanebi: a testable business hypothesis**, hardens it with refutation, and designs the minimal field validation.
 
-**Prime directive: separation of generation and execution.** signity Tanebi produces the hypothesis and the validation design — nothing more. The decision to take it into the field (meeting a customer, sending, publishing, spending money) is made by a human, every single time. Never perform any operation inside this skill that sends externally, publishes, or spends.
+**Prime directive: separation of generation and execution.** Signity Tanebi produces the hypothesis and the validation design — nothing more. The decision to take it into the field (meeting a customer, sending, publishing, spending money) is made by a human, every single time. Never perform any operation inside this skill that sends externally, publishes, or spends.
 
 ## Foundational doctrine (applies to every step — no deviation)
 
