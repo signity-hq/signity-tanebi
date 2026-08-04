@@ -4,17 +4,17 @@
 
 **Signity Tanebi** ("tanebi" means *ember* in Japanese) is a Claude Code / Claude skill that turns your company's existing records — meeting minutes, decision logs, customer notes, daily reports, lessons from failures — into **testable business hypotheses**, hardens them through adversarial refutation, and designs the smallest possible field validation for each survivor.
 
-Products that sell are born from the loop every founder runs by hand: form an initial hypothesis, test it in the field, learn, repeat. Signity Tanebi lets AI run that loop on top of your company's memory — while a human always pulls the trigger.
+Products that sell are born from the loop every founder runs by hand: form an initial hypothesis, test it in the field, learn, repeat. Signity Tanebi lets an AI agent run that loop on top of your company's memory — while a human always pulls the trigger.
 
 > **One skill, every major agent.** Signity Tanebi is an industry-standard agent skill: it conforms to the **Agent Skills open standard** (`SKILL.md`) and runs as-is on **Claude Code, the Claude apps, OpenAI Codex, and xAI Grok Build**. Install instructions for each are below.
 
 ## What makes it different
 
 - **Hypotheses must fit a required sentence form** — "[Customer segment] already [observed behavior], so they should accept [solution]." Wishes and idea lists are not saved as hypotheses
-- **Desk work is never confused with facts** — everything the AI generates is an *opportunity hypothesis*; it is only promoted to an *opportunity* after customer-interview evidence confirms the behavior
+- **Desk work is never confused with facts** — everything the AI agent generates is an *opportunity hypothesis*; it is only promoted to an *opportunity* after customer-interview evidence confirms the behavior
 - **Adversarial refutation built in** — every generated hypothesis is attacked by an independent refutation pass; only survivors reach you, and rejected cards are kept with their rejection reasons
-- **Generation and execution stay separate** — the AI designs hypotheses and experiments; a human always decides what touches the real world
-- **Industry-standard and vendor-neutral** — one folder in the Agent Skills open-standard format works unchanged across Claude, OpenAI Codex, and xAI Grok Build; your hypothesis discipline is not locked to any single AI vendor
+- **Generation and execution stay separate** — the AI agent designs hypotheses and experiments; a human always decides what touches the real world
+- **Industry-standard and vendor-neutral** — one folder in the Agent Skills open-standard format works unchanged across Claude, OpenAI Codex, and xAI Grok Build; your hypothesis discipline is not locked to any single AI-agent vendor
 
 ## Install
 
@@ -59,7 +59,7 @@ The **English edition (`signity-tanebi-en/`) is canonical**. The Japanese editio
 
 ## Background
 
-Signity Tanebi is the public edition of the hypothesis engine used inside SPRINT Japan / signity's own AI-native company operations. The doctrine was canonized after an AI presented a *company problem* as a *customer opportunity* — the exact failure this skill is built to prevent. Methodological foundations: Teresa Torres / Marty Cagan, *Continuous Discovery Habits*.
+Signity Tanebi is the public edition of the hypothesis engine used inside SPRINT Japan / signity's own AI-native company operations. The doctrine was canonized after an AI agent presented a *company problem* as a *customer opportunity* — the exact failure this skill is built to prevent. Methodological foundations: Teresa Torres / Marty Cagan, *Continuous Discovery Habits*.
 
 ## License
 

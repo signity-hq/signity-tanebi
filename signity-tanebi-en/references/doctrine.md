@@ -54,7 +54,7 @@ Solution
 Experiment
 ```
 
-**Only customer-interview-derived facts may be called opportunities.** Whatever is generated from records or AI inference — however plausible — is labeled an "**opportunity hypothesis**." This one-word discipline prevents the confusion of armchair theory with validated fact — the single most expensive accident in hypothesis work.
+**Only customer-interview-derived facts may be called opportunities.** Whatever is generated from records or AI-agent inference — however plausible — is labeled an "**opportunity hypothesis**." This one-word discipline prevents the confusion of armchair theory with validated fact — the single most expensive accident in hypothesis work.
 
 ## 5. Operating rules R1–R6
 
@@ -69,4 +69,4 @@ Experiment
 
 ## 6. Where these definitions come from
 
-This system of definitions was canonized after an AI actually committed the error of presenting "our own problem" as a "customer opportunity." **The only way to stop an AI from repeating the same error is to place the definitions in an explicit, authoritative document and make every generated artifact conform to it.** Teams adopting Signity Tanebi may take this document as-is as their team's terminology canon (if you adapt it to your own vocabulary, we recommend preserving the structure of R1–R6).
+This system of definitions was canonized after an AI agent actually committed the error of presenting "our own problem" as a "customer opportunity." **The only way to stop an AI agent from repeating the same error is to place the definitions in an explicit, authoritative document and make every generated artifact conform to it.** Teams adopting Signity Tanebi may take this document as-is as their team's terminology canon (if you adapt it to your own vocabulary, we recommend preserving the structure of R1–R6).
