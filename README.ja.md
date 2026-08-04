@@ -27,6 +27,18 @@ git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi &
 2. Claude の **設定 → カスタマイズ → スキル → 「+ スキルを作成」**（または [claude.ai/customize/skills](https://claude.ai/customize/skills) に直接アクセス）で、ZIPをそのままアップロード
 3. カスタムスキルは有料プラン（Pro / Max / Team / Enterprise）＋コード実行が有効な場合に使えます。claude.ai に登録したスキルはデスクトップアプリにも自動で同期されます
 
+### OpenAI Codex・xAI Grok Build ほか Agent Skills 対応ツール
+
+Signity Tanebi は **Agent Skills オープン標準**（`SKILL.md`）に準拠しており、Claude 以外の主要エージェントでも使えます。
+
+OpenAI Codex（`~/.agents/skills/` から自動読み込み）:
+
+```bash
+git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi && cp -r /tmp/signity-tanebi/signity-tanebi-ja ~/.agents/skills/signity-tanebi
+```
+
+xAI Grok Build は Claude 互換の `SKILL.md` パックをそのまま読めます——同じフォルダをスキルディレクトリに置けば次セッションから有効です。反証（Step 4）は、サブエージェントが無いツールでは自動的に「視点を切り替えた自己反証」へ縮退する設計なので、どの環境でもパイプラインは一周します。
+
 ## 使い方
 
 自社の記録があるプロジェクトで、「この記録から新規事業の初期仮説を立てて、検証計画まで作って」と頼むだけで起動します。出力は `hypotheses/` に1仮説1ファイルの「仮説カード」として保存され、実験（誰に・いつ・何を確かめるか）と成功／棄却基準が付きます。

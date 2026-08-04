@@ -27,6 +27,18 @@ git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi &
 2. In Claude, open **Settings → Customize → Skills → “+ Create skill”** (or go directly to [claude.ai/customize/skills](https://claude.ai/customize/skills)) and upload the ZIP as-is
 3. Custom skills require a paid plan (Pro / Max / Team / Enterprise) with code execution enabled. Skills uploaded on claude.ai sync to the desktop app automatically
 
+### OpenAI Codex, xAI Grok Build, and other Agent Skills–compatible tools
+
+Signity Tanebi follows the **Agent Skills open standard** (`SKILL.md`), adopted by major agent tools beyond Claude.
+
+OpenAI Codex (loads skills automatically from `~/.agents/skills/`):
+
+```bash
+git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi && cp -r /tmp/signity-tanebi/signity-tanebi-en ~/.agents/skills/signity-tanebi
+```
+
+xAI Grok Build reads Claude-compatible `SKILL.md` packs natively — drop the same folder into its skills directory and it is picked up on the next session. The refutation step (Step 4) automatically degrades from independent sub-agents to an explicit self-refutation pass on tools without sub-agent support, so the pipeline works everywhere.
+
 ## Usage
 
 In any project that holds your company records: *"Form initial hypotheses for a new business from these records, with a validation plan."* Hypothesis cards are saved under `hypotheses/`, each with an experiment and explicit success / rejection criteria.
