@@ -63,4 +63,4 @@ Signity Tanebi is the public edition of the hypothesis engine used inside SPRINT
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Built in public by [signity](https://signityos.io) / [SPRINT Japan](https://sprintjapan.net).
+MIT — see [LICENSE](LICENSE). Built in public by [Signity](https://signityos.io) / [SPRINT Japan](https://sprintjapan.net).

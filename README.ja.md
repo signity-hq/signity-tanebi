@@ -59,4 +59,4 @@ Signity Tanebi は、SPRINT Japan / signity が自社運営（AIと人間の協�
 
 ## ライセンス
 
-MIT — [LICENSE](LICENSE) 参照。Built in public by [signity](https://signityos.io) / [SPRINT Japan](https://sprintjapan.net).
+MIT — [LICENSE](LICENSE) 参照。Built in public by [Signity](https://signityos.io) / [SPRINT Japan](https://sprintjapan.net).
