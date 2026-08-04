@@ -15,9 +15,17 @@
 
 ## インストール（日本語版）
 
+### Claude Code（CLI）
+
 ```bash
 git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi && cp -r /tmp/signity-tanebi/signity-tanebi-ja ~/.claude/skills/signity-tanebi
 ```
+
+### Claude アプリ（デスクトップ / Web）
+
+1. [最新リリース](https://github.com/signity-hq/signity-tanebi/releases/latest)から `signity-tanebi-ja.zip` をダウンロード
+2. Claude の **設定 → カスタマイズ → スキル → 「+ スキルを作成」**（または [claude.ai/customize/skills](https://claude.ai/customize/skills) に直接アクセス）で、ZIPをそのままアップロード
+3. カスタムスキルは有料プラン（Pro / Max / Team / Enterprise）＋コード実行が有効な場合に使えます。claude.ai に登録したスキルはデスクトップアプリにも自動で同期されます
 
 ## 使い方
 

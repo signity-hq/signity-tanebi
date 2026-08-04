@@ -1,6 +1,6 @@
 ---
 name: signity-tanebi
-description: Signity Tanebi — a hypothesis engine that turns company records (meeting minutes, decision logs, customer notes, daily reports, lessons from failures) into testable business hypotheses, hardens them with adversarial refutation, and designs the minimal field validation. Always use this skill when forming early hypotheses for a new business, service, or feature, or when asked to "form a hypothesis", "think up a new business", "find opportunities in our records", or "prep for customer interviews". Use it for idea generation and brainstorming too, whenever the output should ultimately land as something testable.
+description: Turns company records into testable business hypotheses - adversarially refuted, each with a field-validation design. Use for new business ideas, opportunity scans, and customer-interview prep.
 version: 1.0.0
 ---
 

@@ -15,17 +15,17 @@ Products that sell are born from the loop every founder runs by hand: form an in
 
 ## Install
 
-English edition (canonical):
+### Claude Code (CLI)
 
 ```bash
 git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi && cp -r /tmp/signity-tanebi/signity-tanebi-en ~/.claude/skills/signity-tanebi
 ```
 
-Japanese localized edition:
+### Claude app (desktop / web)
 
-```bash
-git clone https://github.com/signity-hq/signity-tanebi.git /tmp/signity-tanebi && cp -r /tmp/signity-tanebi/signity-tanebi-ja ~/.claude/skills/signity-tanebi
-```
+1. Download `signity-tanebi-en.zip` from the [latest release](https://github.com/signity-hq/signity-tanebi/releases/latest)
+2. In Claude, open **Settings → Customize → Skills → “+ Create skill”** (or go directly to [claude.ai/customize/skills](https://claude.ai/customize/skills)) and upload the ZIP as-is
+3. Custom skills require a paid plan (Pro / Max / Team / Enterprise) with code execution enabled. Skills uploaded on claude.ai sync to the desktop app automatically
 
 ## Usage
 
