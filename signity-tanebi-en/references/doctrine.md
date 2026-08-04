@@ -47,14 +47,14 @@ Behavior means **a cost is already being paid**. That is why only hypotheses roo
 ```
 Customer outcome (what the customer wants to achieve)
   ↓
-Opportunity (behavior, anxiety, or inconvenience the customer already exhibits)  ← not called an "opportunity" unless interview-derived
+Opportunity (behavior, anxiety, or inconvenience the customer already exhibits)  ← not called an "opportunity" unless customer-interview-derived
   ↓
 Solution
   ↓
 Experiment
 ```
 
-**Only interview-derived facts may be called opportunities.** Whatever is generated from records or AI inference — however plausible — is labeled an "**opportunity hypothesis**." This one-word discipline prevents the confusion of armchair theory with validated fact — the single most expensive accident in hypothesis work.
+**Only customer-interview-derived facts may be called opportunities.** Whatever is generated from records or AI inference — however plausible — is labeled an "**opportunity hypothesis**." This one-word discipline prevents the confusion of armchair theory with validated fact — the single most expensive accident in hypothesis work.
 
 ## 5. Operating rules R1–R6
 
@@ -62,7 +62,7 @@ Experiment
 |---|---|---|
 | R1 | **Keep two separate trees.** Never draw the customer side (OST) and the business side (problem → task → to-do) in the same diagram. KPIs, analytics, and all other internal metrics go on the business side | Mistaking our own numbers for a customer opportunity is the most frequent accident in hypothesis work |
 | R2 | **Opportunities belong to the customer.** "We don't know" and "we can't measure" are not opportunities — they are our own **problems** | The moment the subject of the sentence becomes us, customer validation turns into self-justification |
-| R3 | **Never call something an "opportunity" unless it is interview-derived.** Label desk-derived items "opportunity hypothesis" | Discipline in naming creates discipline in perception |
+| R3 | **Never call something an "opportunity" unless it is customer-interview-derived.** Label desk-derived items "opportunity hypothesis" | Discipline in naming creates discipline in perception |
 | R4 | **A hypothesis whose subject (customer segment) cannot be written is not adopted** | A hypothesis with no defined validation target is, in principle, unvalidatable |
 | R5 | **A hypothesis whose validation method (experiment) cannot be written is not adopted** | A hypothesis without an experiment is an opinion, and opinions do not compound into assets no matter how many you stack |
 | R6 | **Do not hypothesize everything.** An operational defect is a to-do and demands no hypothesis | Overusing the hypothesis form dilutes the value of real hypotheses |

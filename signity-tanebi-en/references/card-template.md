@@ -21,7 +21,7 @@ slug: <alphanumeric kebab-case; must match the filename>
 |---|---|
 | Customer segment | The subject. Real people or a real stratum. If it traces to a named person in the records, say so |
 | Customer struggle (behavior) | Written as a **behavior they already engage in**. Wishes and feelings are not allowed |
-| Opportunity provenance | Interview-derived or desk-derived. If desk-derived, explicitly label it "opportunity hypothesis" |
+| Opportunity provenance | Customer-interview-derived or desk-derived. If desk-derived, explicitly label it "opportunity hypothesis" |
 | Solution | Minimal form. One card, one solution |
 | Experiment | Who, when, and what you will do to check. Down to the specific person and venue |
 | Success criteria | A number and a deadline (e.g. confirm the behavior actually exists with N people by MM/DD) |

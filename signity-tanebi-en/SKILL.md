@@ -16,7 +16,7 @@ Always read [references/doctrine.md](references/doctrine.md) for the full defini
 
 1. **The required sentence form for a hypothesis**: "**[Customer segment] already [customer struggle = behavior they already engage in], so they should accept [solution].**" Anything that cannot be written in this form is not called a hypothesis
 2. **An "everyday annoyance" is not a "customer struggle."** A customer struggle is a behavior they **already engage in** to overcome an anxiety or inconvenience. Collecting wishes and complaints is not observing a struggle
-3. **Only interview-derived facts may be called "opportunities."** Everything generated from records is desk-derived and must be labeled an "**opportunity hypothesis**." It is promoted to "opportunity" only after field validation confirms it
+3. **Only customer-interview-derived facts may be called "opportunities."** Everything generated from records is desk-derived and must be labeled an "**opportunity hypothesis**." It is promoted to "opportunity" only after field validation confirms it
 4. **Keep two separate trees.** Do not mix the customer tree (outcome → opportunity → solution → experiment) with the business tree (problem → task → to-do). KPIs and internal metrics belong on the business side
 5. **"We don't know / we can't measure" is not an opportunity — it is our own problem.** Do not turn it into a hypothesis; route it out as a to-do
 6. **Do not hypothesize everything.** An operational defect is a to-do, not a hypothesis

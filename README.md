@@ -9,7 +9,7 @@ Products that sell are born from the loop every founder runs by hand: form an in
 ## What makes it different
 
 - **Hypotheses must fit a required sentence form** — "[Customer segment] already [observed behavior], so they should accept [solution]." Wishes and idea lists are not saved as hypotheses
-- **Desk work is never confused with facts** — everything the AI generates is an *opportunity hypothesis*; it is only promoted to an *opportunity* after interview evidence confirms the behavior
+- **Desk work is never confused with facts** — everything the AI generates is an *opportunity hypothesis*; it is only promoted to an *opportunity* after customer-interview evidence confirms the behavior
 - **Adversarial refutation built in** — every generated hypothesis is attacked by an independent refutation pass; only survivors reach you, and rejected cards are kept with their rejection reasons
 - **Generation and execution stay separate** — the AI designs hypotheses and experiments; a human always decides what touches the real world
 
